@@ -1,6 +1,6 @@
 # FoodSAM-Any-Food-Segmentation
-
-# This project focuses on fine-tuning the FoodSAM model—a food-specific segmentation
+## 1. Short Description of the Work/Method
+#This project focuses on fine-tuning the FoodSAM model—a food-specific segmentation
 model built on Meta AI's Segment Anything Model (SAM)—to handle custom food
 images. The goal is to create a robust tool capable of recognizing and segmenting new
 food items based on a custom dataset.
@@ -34,7 +34,7 @@ Data Source:
 2. Real-World Images(For the project): Photos will be taken of various food
 items, such as meals in a cafeteria or in and around campus. These will
 form the base of our dataset.
-3. Annotation Tools
+## 3. Annotation Tools
 We will create segmentation masks for each image using manual annotation
 tools. These tools allow us to label individual food items pixel by pixel.
 Label Studio:
